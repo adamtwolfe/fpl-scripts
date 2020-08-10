@@ -1,0 +1,1332 @@
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+1,Shkodran,Mustafi,2,1,3,Hamstring injury - Expected back 31 Oct,2020-07-18T22:30:20.553834Z,,Mustafi,69140.jpg,i,69140
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+2,Héctor,Bellerín,2,1,3,,2019-12-09T20:00:21.228098Z,,Bellerín,98745.jpg,a,98745
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+3,Sead,Kolasinac,2,1,3,,2020-02-23T18:30:13.672943Z,,Kolasinac,111457.jpg,a,111457
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+4,Ainsley,Maitland-Niles,2,1,3,,2019-09-22T18:00:10.824841Z,,Maitland-Niles,154043.jpg,a,154043
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+5,Sokratis,Papastathopoulos,2,1,3,,2020-06-18T18:00:15.974146Z,,Sokratis,39476.jpg,a,39476
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+6,Nacho,Monreal,2,1,3,Joined Real Sociedad on a permanent deal on 31/8,2019-08-31T11:30:14.661839Z,,Monreal,38411.jpg,u,38411
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+7,Laurent,Koscielny,2,1,3,Joined Bordeaux on a permanent deal on 6/8.,2019-08-08T11:00:09.045030Z,,Koscielny,51507.jpg,u,51507
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+8,Konstantinos,Mavropanos,2,1,3,Joined Stuttgart on loan until the end of the 2020/21 season on 16/7. - Expected back 01 Jul,2020-01-13T14:30:21.309535Z,,Mavropanos,233963.jpg,n,233963
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+9,Carl,Jenkinson,2,1,3,Joined Nottingham Forest on a permanent deal on 7/8.,2019-08-07T17:00:10.875251Z,,Jenkinson,80254.jpg,u,80254
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+10,Rob,Holding,2,1,3,,2019-12-09T10:00:19.335279Z,,Holding,156074.jpg,a,156074
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+11,Pierre-Emerick,Aubameyang,4,1,3,,2020-01-08T14:00:18.333339Z,,Aubameyang,54694.jpg,a,54694
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+12,Alexandre,Lacazette,4,1,3,,2019-09-01T18:30:14.246208Z,,Lacazette,59966.jpg,a,59966
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+13,Edward,Nketiah,4,1,3,,2020-07-07T22:00:20.841098Z,,Nketiah,205533.jpg,a,205533
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+14,Bernd,Leno,1,1,3,,2020-06-20T16:00:17.901135Z,,Leno,80201.jpg,a,80201
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+15,Mesut,Özil,3,1,3,,2020-06-28T19:30:23.392750Z,,Özil,37605.jpg,a,37605
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+16,Henrikh,Mkhitaryan,3,1,3,Joined Roma on loan until the end of the season on 2/9. - Expected back 01 Aug,2019-09-02T23:30:14.832021Z,,Mkhitaryan,57249.jpg,n,57249
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+18,Granit,Xhaka,3,1,3,,2020-06-17T22:00:16.575871Z,,Xhaka,84450.jpg,a,84450
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+19,Lucas,Torreira,3,1,3,,2020-06-19T01:30:19.551092Z,,Torreira,198849.jpg,a,198849
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+20,Mohamed,Elneny,3,1,3,Joined Besiktas on loan until the end of the season on 31/8. - Expected back 01 Aug,2019-08-31T11:30:14.714406Z,,Elneny,153256.jpg,n,153256
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+21,Matteo,Guendouzi,3,1,3,,,,Guendouzi,242166.jpg,a,242166
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+106,David,Luiz Moreira Marinho,2,1,3,,2020-06-28T16:30:14.772979Z,,David Luiz,41270.jpg,a,41270
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+427,Emiliano,Martínez,1,1,3,,,,Martínez,98980.jpg,a,98980
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+467,Calum,Chambers,2,1,3,Knee injury - Unknown return date,2019-12-29T14:30:27.183032Z,,Chambers,101184.jpg,i,101184
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+469,Daniel,Ceballos Fernández,3,1,3,,2019-11-06T17:30:16.584319Z,,Ceballos,182539.jpg,a,182539
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+486,Cédric,Soares,2,1,3,,2020-06-19T23:30:18.204187Z,,Cédric,58822.jpg,a,58822
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+488,Nicolas,Pépé,3,1,3,,2019-12-11T12:30:12.556688Z,,Pépé,195735.jpg,a,195735
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+489,Reiss,Nelson,3,1,3,,2020-01-18T17:00:23.535651Z,,Nelson,200641.jpg,a,200641
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+490,Joseph,Willock,3,1,3,,2019-09-07T11:30:17.190466Z,,Willock,200089.jpg,a,200089
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+504,Gabriel Teodoro,Martinelli Silva,4,1,3,Knee injury - Expected back 31 Dec,2020-06-24T13:00:17.558412Z,,Martinelli,444145.jpg,i,444145
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+515,Kieran,Tierney,2,1,3,,2019-12-09T22:00:21.790216Z,,Tierney,192895.jpg,a,192895
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+541,Bukayo,Saka,3,1,3,,2020-02-02T17:00:24.409161Z,,Saka,223340.jpg,a,223340
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+576,Emile,Smith Rowe,3,1,3,Joined Huddersfield Town on loan until the end of the season on 10/1. - Expected back 01 Aug,2020-01-10T20:00:21.634861Z,,Smith Rowe,209289.jpg,n,209289
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+585,Tyreece,John-Jules,4,1,3,Joined Lincoln City on loan until the end of the season on 10/1. - Expected back 01 Aug,2020-01-16T10:30:19.626655Z,,John-Jules,232233.jpg,n,232233
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+617,Pablo,Marí,2,1,3,Ankle injury - Expected back 25 Sep,2020-06-17T22:00:17.468334Z,,Marí,92371.jpg,i,92371
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+636,Zech,Medley,2,1,3,,,,Medley,209037.jpg,a,209037
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+646,Matt,Macey,1,1,3,,,,Macey,113534.jpg,a,113534
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+647,Matthew,Smith,2,1,3,,,,Smith,232241.jpg,a,232241
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+22,Ahmed,El Mohamady,2,2,7,Hamstring injury - Unknown return date,2020-07-21T21:30:23.752198Z,,El Mohamady,37339.jpg,i,37339
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+23,James,Chester,2,2,7,Joined Stoke City on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T15:00:12.372885Z,,Chester,43252.jpg,n,43252
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+24,Neil,Taylor,2,2,7,,2020-07-12T16:00:17.086537Z,,Taylor,47390.jpg,a,47390
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+25,Kortney,Hause,2,2,7,,2020-07-13T09:00:24.485275Z,,Hause,123354.jpg,a,123354
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+26,Jonathan,Kodjia,4,2,7,Joined Al-Gharafa on a permanent deal on 20/1.,2020-01-08T20:30:20.825750Z,,Kodjia,54764.jpg,u,54764
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+27,Ørjan,Nyland,1,2,7,,2019-07-30T15:00:08.973693Z,,Nyland,98770.jpg,a,98770
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+28,Conor,Hourihane,3,2,7,,2019-12-15T13:00:22.404997Z,,Hourihane,85242.jpg,a,85242
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+29,Jack,Grealish,3,2,7,,2019-10-26T18:30:22.524063Z,,Grealish,114283.jpg,a,114283
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+30,Anwar,El Ghazi,3,2,7,,2020-02-22T17:30:19.276253Z,,El Ghazi,193488.jpg,a,193488
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+31,John,McGinn,3,2,7,,2019-12-21T17:00:13.681907Z,,McGinn,122806.jpg,a,122806
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+32,Andre,Green,3,2,7,Joined Charlton Athletic on loan until the end of the season on 2/1. - Expected back 01 Aug,2019-08-04T16:30:15.274646Z,,Green,174597.jpg,n,174597
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+33,Birkir,Bjarnason,3,2,7,Left Aston Villa by mutual consent on 8/8.,2019-08-08T15:30:15.672945Z,,Bjarnason,27770.jpg,u,27770
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+34,Keinan,Davis,3,2,7,,2020-02-03T23:00:14.489212Z,,Davis,221239.jpg,a,221239
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+35,Henri,Lansbury,3,2,7,,2019-11-08T18:00:15.526636Z,,Lansbury,40564.jpg,a,40564
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+36,José Ignacio,Peleteiro Romallo,3,2,7,,2019-10-17T13:00:14.384046Z,,Jota,89274.jpg,a,89274
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+94,Tom,Heaton,1,2,7,Knee injury - Unknown return date,2020-01-01T15:00:18.235936Z,,Heaton,21205.jpg,i,21205
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+120,Daniel,Drinkwater,3,2,7,Muscle injury - 75% chance of playing,2020-07-17T23:30:16.075983Z,,Drinkwater,61603.jpg,d,61603
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+309,Matt,Targett,2,2,7,,2020-06-27T15:30:23.724931Z,,Targett,169359.jpg,a,169359
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+428,Wesley,Moraes,4,2,7,Knee injury - Unknown return date,2020-01-01T15:00:18.798443Z,,Wesley,213345.jpg,i,213345
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+429,Jed,Steer,1,2,7,,2019-11-10T16:00:17.790777Z,,Steer,79852.jpg,a,79852
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+445,Tyrone,Mings,2,2,7,,2020-02-16T16:00:24.633178Z,,Mings,149484.jpg,a,149484
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+452,Ezri,Konsa Ngoyo,2,2,7,,2020-02-01T17:30:19.744514Z,,Konsa,199798.jpg,a,199798
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+455,Bjorn,Engels,2,2,7,Achilles injury - 75% chance of playing,2020-06-18T17:30:12.858071Z,,Engels,108156.jpg,d,108156
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+458,Frédéric,Guilbert,2,2,7,,2020-06-18T17:30:12.878185Z,,Guilbert,203368.jpg,a,203368
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+465,Mahmoud Ahmed,Ibrahim Hassan,3,2,7,,2019-08-31T16:30:09.941826Z,,Trézéguet,148508.jpg,a,148508
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+470,Douglas Luiz,Soares de Paulo,3,2,7,,,,Douglas Luiz,230046.jpg,a,230046
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+474,Lovre,Kalinic,1,2,7,Joined Toulouse on loan until the end of the season on 20/1. - Expected back 01 Aug,2020-01-20T17:00:23.372293Z,,Kalinic,88175.jpg,n,88175
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+491,Marvelous,Nakamba,3,2,7,,2020-01-18T19:30:18.468247Z,,Nakamba,184704.jpg,a,184704
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+600,Indiana,Vassilev,3,2,7,,,,Vassilev,223349.jpg,a,223349
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+603,José,Reina,1,2,7,,2020-07-11T10:00:24.675525Z,,Reina,8432.jpg,a,8432
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+613,Mbwana,Samatta,4,2,7,,,,Samatta,217487.jpg,a,217487
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+623,Borja,González Tomás,4,2,7,Contract with club expired on 30/6,2020-06-29T23:30:25.972633Z,,Bastón,83091.jpg,u,83091
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+659,Kaine,Hayden,3,2,7,,,,Hayden,490098.jpg,a,490098
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+58,Steve,Cook,2,3,91,,2020-07-04T16:30:17.479880Z,,Steve Cook,56917.jpg,a,56917
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+59,Nathan,Aké,2,3,91,,2020-07-12T20:30:23.871651Z,,Aké,126184.jpg,a,126184
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+60,Charlie,Daniels,2,3,91,Knee injury - Unknown return date,2019-08-25T15:30:14.994228Z,,Daniels,41320.jpg,i,41320
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+61,Chris,Mepham,2,3,91,Knee injury - Expected back 30 Aug,2020-07-04T16:30:17.502095Z,,Mepham,223911.jpg,i,223911
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+62,Simon,Francis,2,3,91,Knee injury - 75% chance of playing,2020-06-27T02:00:26.872803Z,,Francis,15149.jpg,d,15149
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+63,Adam,Smith,2,3,91,,2020-07-09T21:30:22.479198Z,,Adam Smith,54469.jpg,a,54469
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+64,Lloyd,Kelly,2,3,91,,2020-01-31T01:00:23.162332Z,,Kelly,235530.jpg,a,235530
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+65,Diego,Rico,2,3,91,,2019-12-21T17:00:13.810253Z,,Rico,171129.jpg,a,171129
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+66,Jack,Simpson,2,3,91,,2020-07-04T20:30:24.841988Z,,Simpson,222434.jpg,a,222434
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+67,Callum,Wilson,4,3,91,,2020-06-24T19:00:18.390083Z,,Callum Wilson,75115.jpg,a,75115
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+68,Joshua,King,4,3,91,,2020-07-12T18:00:21.125542Z,,King,78007.jpg,a,78007
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+69,Dominic,Solanke,4,3,91,,2019-11-24T12:00:21.142150Z,,Solanke,154566.jpg,a,154566
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+71,Sam,Surridge,4,3,91,,2019-08-07T20:00:14.104634Z,,Surridge,217331.jpg,a,217331
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+72,Asmir,Begovic,1,3,91,Joined AC Milan on loan until the end of the season on 13/1. - Expected back 01 Aug,2020-01-13T20:30:12.943407Z,,Begovic,40349.jpg,n,40349
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+73,Artur,Boruc,1,3,91,,,,Boruc,18726.jpg,a,18726
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+74,Mark,Travers,1,3,91,,,,Travers,229600.jpg,a,229600
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+75,Ryan,Fraser,3,3,91,Contract with club expired on 30/6,2020-06-25T16:00:21.406499Z,,Fraser,90105.jpg,u,90105
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+76,David,Brooks,3,3,91,,2020-07-09T22:00:23.448024Z,,Brooks,111317.jpg,a,111317
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+77,Junior,Stanislas,3,3,91,,2020-01-12T20:00:12.983134Z,,Stanislas,56872.jpg,a,56872
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+78,Jordon,Ibe,3,3,91,Contract with club expired on 30/6,2020-06-25T16:00:21.420735Z,,Ibe,103912.jpg,u,103912
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+79,Lewis,Cook,3,3,91,,2020-02-29T17:30:25.441741Z,,Lewis Cook,155408.jpg,a,155408
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+80,Andrew,Surman,3,3,91,,2019-12-20T11:00:16.393267Z,,Surman,15237.jpg,a,15237
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+81,Dan,Gosling,3,3,91,,2019-07-30T10:30:13.907385Z,,Gosling,40387.jpg,a,40387
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+82,Jefferson,Lerma,3,3,91,,2020-02-22T17:30:19.416565Z,,Lerma,152551.jpg,a,152551
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+446,Jack,Stacey,2,3,91,,2019-12-28T15:00:27.078393Z,,Stacey,154131.jpg,a,154131
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+476,Philip,Billing,3,3,91,,2020-06-24T19:30:22.461425Z,,Billing,168991.jpg,a,168991
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+492,Arnaut,Danjuma Groeneveld,3,3,91,,2019-12-15T13:00:23.507388Z,,Danjuma,220307.jpg,a,220307
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+494,Aaron,Ramsdale,1,3,91,,2020-01-12T14:00:23.328650Z,,Ramsdale,225321.jpg,a,225321
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+505,Harry,Wilson,3,3,91,,2020-03-01T19:00:16.835481Z,,Harry Wilson,153682.jpg,a,153682
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+564,Christian,Saydee,3,3,91,,,,Saydee,461017.jpg,a,461017
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+565,Gavin,Kilkenny,3,3,91,,,,Kilkenny,444183.jpg,a,444183
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+574,Mihai-Alexandru,Dobre,3,3,91,Joined Wigan Athletic on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-02-01T00:00:22.909965Z,,Dobre,207300.jpg,n,207300
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+37,Shane,Duffy,2,4,36,,2020-01-30T15:00:21.405457Z,,Duffy,61933.jpg,a,61933
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+38,Martín,Montoya,2,4,36,,2019-09-14T16:30:10.724610Z,,Montoya,86153.jpg,a,86153
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+39,Bernardo,Fernandes da Silva Junior,2,4,36,,2019-09-14T16:30:10.738160Z,,Bernardo,209362.jpg,a,209362
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+40,Leon,Balogun,2,4,36,Joined Wigan Athletic on a permanent deal on 25/6,2020-02-01T00:00:21.930237Z,,Balogun,52484.jpg,u,52484
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+41,Gaëtan,Bong,2,4,36,Joined Nottingham Forest on a permanent deal on 30/1,2020-01-31T01:30:13.684095Z,,Bong,42748.jpg,u,42748
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+42,Lewis,Dunk,2,4,36,,2019-12-26T12:30:21.551588Z,,Dunk,83299.jpg,a,83299
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+43,Matthew,Clarke,2,4,36,Joined Derby County on loan until the end of the season on 2/8. - Expected back 01 Aug,2019-08-02T11:00:13.040927Z,,Clarke,178173.jpg,n,178173
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+44,Glenn,Murray,4,4,36,,2020-01-05T01:00:11.784092Z,,Murray,20529.jpg,a,20529
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+45,Jürgen,Locadia,4,4,36,Joined FC Cincinnatti on loan until the end of the season on 12/2. - Expected back 01 Aug,2020-02-13T00:30:19.910430Z,,Locadia,106757.jpg,n,106757
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+46,Florin,Andone,4,4,36,Joined Galatasaray on loan until the end of the season on 2/9. - Expected back 01 Aug,2019-08-24T16:30:09.164349Z,,Andone,93284.jpg,n,93284
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+47,Mathew,Ryan,1,4,36,,,,Ryan,131897.jpg,a,131897
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+48,David,Button,1,4,36,,,,Button,50093.jpg,a,50093
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+49,Pascal,Groß,3,4,36,,,,Groß,60307.jpg,a,60307
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+50,Alireza,Jahanbakhsh,3,4,36,,2020-07-18T13:30:18.589471Z,,Jahanbakhsh,165210.jpg,a,165210
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+51,José Heriberto,Izquierdo Mena,3,4,36,Knee injury - Unknown return date,2019-06-25T11:30:06.929510Z,,Izquierdo,167473.jpg,i,167473
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+52,Anthony,Knockaert,3,4,36,Joined Fulham on loan until the end of the season on 21/7. - Expected back 01 Aug,2019-07-21T20:00:14.555249Z,,Knockaert,83543.jpg,n,83543
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+53,Yves,Bissouma,3,4,36,,2019-06-25T11:30:06.944296Z,,Bissouma,227127.jpg,a,227127
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+54,Davy,Pröpper,3,4,36,,2020-07-02T13:30:15.122515Z,,Pröpper,66242.jpg,a,66242
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+55,Solomon,March,3,4,36,,2019-11-28T14:00:24.105131Z,,March,109345.jpg,a,109345
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+56,Beram,Kayal,3,4,36,,2019-08-08T22:00:09.076501Z,,Kayal,38490.jpg,a,38490
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+57,Dale,Stephens,3,4,36,,2020-02-08T17:30:21.605491Z,,Stephens,40845.jpg,a,40845
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+421,Leandro,Trossard,3,4,36,,2019-11-16T11:00:16.932007Z,,Trossard,116216.jpg,a,116216
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+475,Dan,Burn,2,4,36,,2020-01-01T14:30:13.406599Z,,Burn,78916.jpg,a,78916
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+493,Adam,Webster,2,4,36,,2020-07-18T13:30:19.627818Z,,Webster,110735.jpg,a,110735
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+502,Neal,Maupay,4,4,36,,,,Maupay,115382.jpg,a,115382
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+516,Aaron,Mooy,3,4,36,,2020-01-09T14:00:18.516961Z,,Mooy,74471.jpg,a,74471
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+534,Aaron,Connolly,4,4,36,,2020-03-20T16:00:27.160405Z,,Connolly,233425.jpg,a,233425
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+536,Tudor,Baluta,2,4,36,Joined ADO Den Haag on loan until the end of the season on 17/1. - Expected back 01 Aug,2020-01-17T11:00:15.294241Z,,Baluta,213056.jpg,n,213056
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+537,Steven,Alzate,3,4,36,Groin Injury - Unknown return date,2020-07-14T13:00:24.499515Z,,Alzate,235382.jpg,i,235382
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+546,Ezequiel,Schelotto,2,4,36,,,,Schelotto,74375.jpg,a,74375
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+586,Tariq,Lamptey,2,4,36,,,,Lamptey,232792.jpg,a,232792
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+627,Alexis,Mac Allister,3,4,36,,,,Mac Allister,243016.jpg,a,243016
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+666,Alex,Cochrane,2,4,36,,,,Cochrane,215066.jpg,a,215066
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+83,Ben,Mee,2,5,90,Thigh injury - Unknown return date,2020-07-05T13:00:17.289335Z,,Mee,51927.jpg,i,51927
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+84,James,Tarkowski,2,5,90,,2019-08-03T18:30:13.047591Z,,Tarkowski,17761.jpg,a,17761
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+85,Matthew,Lowton,2,5,90,Foot injury - Unknown return date,2020-06-29T19:30:19.130517Z,,Lowton,68983.jpg,i,68983
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+86,Phil,Bardsley,2,5,90,,2020-01-24T15:30:17.654643Z,,Bardsley,17997.jpg,a,17997
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+87,Charlie,Taylor,2,5,90,Hamstring injury - Unknown return date,2020-07-15T19:30:25.224417Z,,Taylor,103914.jpg,i,103914
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+88,Kevin,Long,2,5,90,,2019-12-05T14:00:19.724270Z,,Long,41674.jpg,a,41674
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+89,Ben,Gibson,2,5,90,Lack of match fitness - Unknown return date,2020-01-24T15:30:17.666302Z,,Gibson,83312.jpg,i,83312
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+90,Ashley,Barnes,4,5,90,Groin Injury - Unknown return date,2020-01-05T01:00:11.884714Z,,Barnes,44699.jpg,i,44699
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+91,Chris,Wood,4,5,90,,2020-06-07T00:30:14.067961Z,,Wood,60689.jpg,a,60689
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+92,Matej,Vydra,4,5,90,,2019-11-21T14:00:21.258493Z,,Vydra,81183.jpg,a,81183
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+93,Nick,Pope,1,5,90,,2019-07-31T00:00:11.182051Z,,Pope,98747.jpg,a,98747
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+95,Joe,Hart,1,5,90,Contract with club expired on 30/6,2020-06-29T23:00:16.227529Z,,Hart,15749.jpg,u,15749
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+96,Johann Berg,Gudmundsson,3,5,90,,2020-06-07T00:30:14.089906Z,,Gudmundsson,60586.jpg,a,60586
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+97,Dwight,McNeil,3,5,90,,2019-09-26T14:30:17.961067Z,,McNeil,433154.jpg,a,433154
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+98,Robbie,Brady,3,5,90,,2020-06-23T12:30:16.893641Z,,Brady,90517.jpg,a,90517
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+99,Steven,Defour,3,5,90,Contract terminated by mutual consent on 31/8,2019-06-25T11:30:07.038056Z,,Defour,39847.jpg,u,39847
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+100,Jeff,Hendrick,3,5,90,Contract ends on 30/6,2020-06-29T23:00:16.264257Z,,Hendrick,83314.jpg,u,83314
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+101,Ashley,Westwood,3,5,90,,2019-12-19T15:00:19.383162Z,,Westwood,60551.jpg,a,60551
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+102,Jack,Cork,3,5,90,Ankle injury - Unknown return date,2020-06-29T22:00:20.529259Z,,Cork,40145.jpg,i,40145
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+430,Aaron,Lennon,3,5,90,Contract with club expired on 30/6,2020-06-29T23:00:16.838344Z,,Lennon,17349.jpg,u,17349
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+447,Erik,Pieters,2,5,90,,2019-12-02T16:00:24.543370Z,,Pieters,39487.jpg,a,39487
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+451,Jay,Rodriguez,4,5,90,,2020-07-15T21:30:25.144884Z,,Rodriguez,44683.jpg,a,44683
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+495,Bailey,Peacock-Farrell,1,5,90,,,,Peacock-Farrell,220037.jpg,a,220037
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+571,Mace,Goodridge,3,5,90,,,,Goodridge,195064.jpg,a,195064
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+572,Anthony,Driscoll-Glennon,2,5,90,,2020-01-08T02:00:17.684892Z,,Driscoll-Glennon,195471.jpg,a,195471
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+596,Abd-Al-Ali Morakinyo Olaposi,Koiki,2,5,90,Contract with club expired on 30/6,2020-06-30T23:30:23.984405Z,,Koiki,432793.jpg,u,432793
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+620,Josh,Brownhill,3,5,90,,,,Brownhill,172782.jpg,a,172782
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+638,Jimmy,Dunne,2,5,90,,,,Dunne,218023.jpg,a,218023
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+639,Bobby,Thomas,2,5,90,,,,Thomas,461102.jpg,a,461102
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+640,Max,Thompson,4,5,90,,,,Thompson,461450.jpg,a,461450
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+641,Lukas,Jensen,1,5,90,,,,Jensen,449974.jpg,a,449974
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+653,Josh,Benson,3,5,90,,,,Benson,217401.jpg,a,217401
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+665,Joel,Mumbongo,4,5,90,,,,Mumbongo,430367.jpg,a,430367
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+103,Marcos,Alonso,2,6,8,,2019-12-28T01:00:24.217758Z,,Alonso,82263.jpg,a,82263
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+104,Antonio,Rüdiger,2,6,8,,2019-09-14T17:00:16.188229Z,,Rüdiger,102380.jpg,a,102380
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+105,César,Azpilicueta,2,6,8,,2019-12-22T19:30:15.441735Z,,Azpilicueta,41328.jpg,a,41328
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+107,Emerson,Palmieri dos Santos,2,6,8,,2019-09-08T20:30:10.510601Z,,Emerson,109533.jpg,a,109533
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+108,Andreas,Christensen,2,6,8,,2020-06-28T19:30:23.670073Z,,Christensen,135363.jpg,a,135363
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+109,Davide,Zappacosta,2,6,8,Joined Roma on loan until the end of the season on 21/8. - Expected back 01 Aug,2019-08-21T19:30:16.936375Z,,Zappacosta,105700.jpg,n,105700
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+110,Olivier,Giroud,4,6,8,,2020-01-26T17:00:13.952099Z,,Giroud,44346.jpg,a,44346
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+111,Kepa,Arrizabalaga,1,6,8,,,,Kepa,109745.jpg,a,109745
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+112,Willy,Caballero,1,6,8,,,,Caballero,20310.jpg,a,20310
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+113,Willian,Borges Da Silva,3,6,8,,2020-03-03T22:30:25.783399Z,,Willian,47431.jpg,a,47431
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+114,Pedro,Rodríguez Ledesma,3,6,8,,2020-02-22T21:30:18.487158Z,,Pedro,49579.jpg,a,49579
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+115,Ruben,Loftus-Cheek,3,6,8,,2019-06-25T11:30:07.068350Z,,Loftus-Cheek,126187.jpg,a,126187
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+116,Callum,Hudson-Odoi,3,6,8,,2020-06-24T12:30:16.286062Z,,Hudson-Odoi,209046.jpg,a,209046
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+117,Ross,Barkley,3,6,8,,2019-10-19T16:00:15.801912Z,,Barkley,88894.jpg,a,88894
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+118,Jorge Luiz,Frello Filho,3,6,8,,2020-02-29T17:00:18.261637Z,,Jorginho,85955.jpg,a,85955
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+119,N'Golo,Kanté,3,6,8,,2020-07-04T21:00:17.142316Z,,Kanté,116594.jpg,a,116594
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+121,Ethan,Ampadu,3,6,8,Joined RB Leipzig on loan until the end of the season on 22/7. - Expected back 01 Aug,2019-07-22T13:30:07.199042Z,,Ampadu,199598.jpg,n,199598
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+431,Christian,Pulisic,3,6,8,,2020-06-28T19:30:24.496949Z,,Pulisic,176413.jpg,a,176413
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+432,Mateo,Kovacic,3,6,8,Suspended - unknown return date,2020-08-03T11:00:16.221190Z,,Kovacic,91651.jpg,s,91651
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+459,Kurt,Zouma,2,6,8,,2019-09-28T16:00:17.677906Z,,Zouma,103192.jpg,a,103192
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+460,Tammy,Abraham,4,6,8,,2020-02-28T14:00:22.022949Z,,Abraham,173879.jpg,a,173879
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+461,Michy,Batshuayi,4,6,8,,,,Batshuayi,94245.jpg,a,94245
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+462,Robert Kenedy,Nunes do Nascimento,3,6,8,Joined Getafe on loan until the end of the season on 2/9. - Expected back 01 Aug,2019-09-02T23:30:15.527764Z,,Kenedy,167767.jpg,n,167767
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+463,Mason,Mount,3,6,8,,2020-03-08T17:30:18.062200Z,,Mount,184341.jpg,a,184341
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+506,Reece,James,2,6,8,,2020-01-18T19:30:18.538805Z,,James,225796.jpg,a,225796
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+529,Fikayo,Tomori,2,6,8,,2020-06-19T16:00:13.947915Z,,Tomori,194794.jpg,a,194794
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+533,Billy,Gilmour,3,6,8,Knee injury - Expected back 07 Nov,2020-07-10T01:00:24.249377Z,,Gilmour,243568.jpg,i,243568
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+545,Addji Keaninkin Marc-Israel,Guehi,2,6,8,Joined Swansea City on loan until the end of the season on 10/1. - Expected back 01 Aug,2020-01-10T11:00:15.069169Z,,Guehi,209036.jpg,n,209036
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+630,Faustino,Anjorin,3,6,8,,,,Anjorin,223332.jpg,a,223332
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+631,Armando,Broja,4,6,8,,,,Broja,440323.jpg,a,440323
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+657,Lewis,Bate,3,6,8,,,,Bate,450529.jpg,a,450529
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+123,Patrick,van Aanholt,2,7,31,Shoulder Dislocation - Unknown return date,2020-07-16T22:00:23.507282Z,,van Aanholt,74230.jpg,i,74230
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+124,James,Tomkins,2,7,31,Thigh injury - Unknown return date,2020-06-19T16:00:13.239396Z,,Tomkins,49413.jpg,i,49413
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+125,Mamadou,Sakho,2,7,31,Muscle injury - Unknown return date,2020-07-20T23:30:24.456832Z,,Sakho,40784.jpg,i,40784
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+126,Joel,Ward,2,7,31,,2019-11-23T18:00:20.336284Z,,Ward,55494.jpg,a,55494
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+127,Scott,Dann,2,7,31,,2019-12-20T13:30:13.414607Z,,Dann,19188.jpg,a,19188
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+128,Martin,Kelly,2,7,31,,2020-06-19T16:00:13.256108Z,,Kelly,58786.jpg,a,58786
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+129,Christian,Benteke,4,7,31,,2020-07-12T16:00:17.319637Z,,Benteke,54861.jpg,a,54861
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+130,Connor,Wickham,4,7,31,Joined Sheffield Wednesday on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T23:00:19.843392Z,,Wickham,59125.jpg,n,59125
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+131,Vicente,Guaita,1,7,31,,2020-06-25T10:00:21.543320Z,,Guaita,40836.jpg,a,40836
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+132,Wayne,Hennessey,1,7,31,,,,Hennessey,20066.jpg,a,20066
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+133,Wilfried,Zaha,3,7,31,,2020-06-24T21:30:18.591220Z,,Zaha,82403.jpg,a,82403
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+134,Luka,Milivojevic,3,7,31,,2020-07-20T19:30:22.825944Z,,Milivojevic,66975.jpg,a,66975
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+135,Andros,Townsend,3,7,31,,2019-12-16T20:00:21.552659Z,,Townsend,60252.jpg,a,60252
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+136,Max,Meyer,3,7,31,,2020-01-11T20:30:19.086626Z,,Meyer,141020.jpg,a,141020
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+137,Jeffrey,Schlupp,3,7,31,,2020-06-19T16:00:13.289702Z,,Schlupp,86417.jpg,a,86417
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+138,James,McArthur,3,7,31,,2019-11-03T16:30:17.881657Z,,McArthur,50471.jpg,a,50471
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+139,Cheikhou,Kouyaté,3,7,31,,2020-02-22T21:30:18.688171Z,,Kouyaté,55037.jpg,a,55037
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+140,Luke,Dreher,3,7,31,,,,Dreher,221275.jpg,a,221275
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+157,James,McCarthy,3,7,31,,2020-03-01T19:30:23.056417Z,,McCarthy,50472.jpg,a,50472
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+468,Jordan,Ayew,4,7,31,,,,Ayew,80146.jpg,a,80146
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+503,Gary,Cahill,2,7,31,Hamstring injury - Unknown return date,2020-07-07T19:00:22.294221Z,,Cahill,19419.jpg,i,19419
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+510,Víctor,Camarasa,3,7,31,Loan deal ended on 13/1,2020-01-06T01:00:18.633384Z,,Camarasa,175946.jpg,u,175946
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+539,Jairo,Riedewald,3,7,31,,2020-01-05T22:00:20.857953Z,,Riedewald,173954.jpg,a,173954
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+556,Stephen,Henderson,1,7,31,,,,Henderson,42525.jpg,a,42525
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+578,Sam,Woods,2,7,31,,2020-01-24T15:00:18.535146Z,,Woods,221272.jpg,a,221272
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+579,Tyrick,Mitchell,2,7,31,,,,Mitchell,244723.jpg,a,244723
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+580,Brandon,Pierrick,3,7,31,,,,Pierrick,466955.jpg,a,466955
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+581,James,Daly,4,7,31,Joined Bristol Rovers on a permanent deal on 31/1,2020-01-31T20:30:19.305077Z,,Daly,432705.jpg,u,432705
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+588,Nya,Kirby,3,7,31,,,,Kirby,209043.jpg,a,209043
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+608,Giovanni,McGregor,3,7,31,Contract with club expired on 30/6,2020-01-31T20:30:19.355699Z,,McGregor,234720.jpg,u,234720
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+635,Nikola,Tavares,2,7,31,Contract with club expired on 30/6,2020-06-30T23:30:24.115870Z,,Tavares,235599.jpg,u,235599
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+668,John-Kymani,Gordon,3,7,31,,,,Gordon,461382.jpg,a,461382
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+17,Alex,Iwobi,3,8,11,,2020-07-06T22:00:18.508516Z,,Iwobi,153133.jpg,a,153133
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+141,Lucas,Digne,2,8,11,,2020-02-23T19:00:12.788850Z,,Digne,101188.jpg,a,101188
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+142,Yerry,Mina,2,8,11,Thigh injury - Unknown return date,2020-07-12T16:00:17.361407Z,,Mina,164511.jpg,i,164511
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+143,Michael,Keane,2,8,11,,2020-01-20T14:00:12.624966Z,,Keane,106611.jpg,a,106611
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+144,Seamus,Coleman,2,8,11,,2020-03-01T17:30:18.538038Z,,Coleman,59949.jpg,a,59949
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+145,Leighton,Baines,2,8,11,,2019-07-30T15:00:09.168977Z,,Baines,12745.jpg,a,12745
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+146,Cenk,Tosun,4,8,11,Knee injury - Unknown return date,2020-03-04T17:00:25.915570Z,,Tosun,66838.jpg,i,66838
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+147,Dominic,Calvert-Lewin,4,8,11,,,,Calvert-Lewin,177815.jpg,a,177815
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+148,Jordan,Pickford,1,8,11,,,,Pickford,111234.jpg,a,111234
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+149,Maarten,Stekelenburg,1,8,11,,,,Stekelenburg,10318.jpg,a,10318
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+150,Richarlison,de Andrade,3,8,11,,2020-07-01T19:00:23.063454Z,,Richarlison,212319.jpg,a,212319
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+151,Gylfi,Sigurdsson,3,8,11,,2020-01-17T14:00:19.905907Z,,Sigurdsson,55422.jpg,a,55422
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+152,Bernard,Anício Caldeira Duarte,3,8,11,,2020-03-08T17:30:16.694056Z,,Bernard,100649.jpg,a,100649
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+153,Theo,Walcott,3,8,11,,2020-06-10T14:30:19.552057Z,,Walcott,20467.jpg,a,20467
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+154,Tom,Davies,3,8,11,,,,Davies,173807.jpg,a,173807
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+155,Ademola,Lookman,3,8,11,Joined RB Leipzig on a permanent deal on 25/7,2019-07-25T09:00:14.381716Z,,Lookman,219352.jpg,u,219352
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+156,Idrissa,Gueye,3,8,11,Joined PSG on a permanent deal on 30/7,2019-07-30T09:00:05.841634Z,,Gueye,80801.jpg,u,80801
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+158,Morgan,Schneiderlin,3,8,11,Joined Nice on a permanent deal on 23/6,2020-02-28T16:30:25.542559Z,,Schneiderlin,42774.jpg,u,42774
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+205,Fabian,Delph,2,8,11,Muscle injury - Unknown return date,2020-06-11T13:00:18.348167Z,,Delph,41823.jpg,i,41823
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+422,André Filipe,Tavares Gomes,3,8,11,,2020-07-09T21:30:23.097174Z,,André Gomes,120250.jpg,a,120250
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+477,Lewis,Gibson,2,8,11,Joined Fleetwood Town on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T10:30:16.201935Z,,Gibson,232964.jpg,n,232964
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+478,Mason,Holgate,2,8,11,Shin injury - Unknown return date,2020-07-16T19:30:25.535977Z,,Holgate,194164.jpg,i,194164
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+479,Jonas,Lössl,1,8,11,Joined Huddersfield Town on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T22:30:14.186781Z,,Lössl,57513.jpg,n,57513
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+496,Moise,Kean,4,8,11,,2020-07-20T17:30:25.743562Z,,Kean,242058.jpg,a,242058
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+497,Jean-Philippe,Gbamin,3,8,11,Achilles injury - Unknown return date,2019-08-23T21:30:13.493993Z,,Gbamin,160987.jpg,i,160987
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+511,Djibril,Sidibé,2,8,11,,2020-06-22T01:00:16.323820Z,,Sidibé,102747.jpg,a,102747
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+557,Beni,Baningime,3,8,11,,2019-11-29T16:00:27.549912Z,,Baningime,195855.jpg,a,195855
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+561,Anthony,Gordon,4,8,11,,,,Gordon,232826.jpg,a,232826
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+570,Oumar,Niasse,4,8,11,Contract with club expired on 30/6,2020-06-26T09:00:20.395229Z,,Niasse,113688.jpg,u,113688
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+577,Rhu-endly,Martina,2,8,11,Contract with club expired on 30/6,2020-06-26T09:00:20.450997Z,,Cuco Martina,56192.jpg,u,56192
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+629,João Manuel,Neves Virgínia,1,8,11,,,,Virgínia,222627.jpg,a,222627
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+637,Jarrad,Branthwaite,2,8,11,,,,Branthwaite,480455.jpg,a,480455
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+667,Ellis,Simms,4,8,11,,,,Simms,218997.jpg,a,218997
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+159,Ricardo Domingos,Barbosa Pereira,2,9,13,Knee injury - Unknown return date,2020-03-12T14:30:24.198726Z,,Pereira,111931.jpg,i,111931
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+161,Benjamin,Chilwell,2,9,13,Foot injury - Unknown return date,2020-07-04T21:00:17.254997Z,,Chilwell,172850.jpg,i,172850
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+162,Jonny,Evans,2,9,13,Suspended - unknown return date,2020-07-26T18:30:17.134219Z,,Evans,37642.jpg,s,37642
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+163,Christian,Fuchs,2,9,13,Groin Injury - Expected back 24 Oct,2020-07-16T22:00:23.596630Z,,Fuchs,37402.jpg,i,37402
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+164,Çaglar,Söyüncü,2,9,13,,2020-07-12T20:30:24.114076Z,,Söyüncü,218031.jpg,a,218031
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+165,Wes,Morgan,2,9,13,,2020-01-27T15:00:16.943418Z,,Morgan,15033.jpg,a,15033
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+166,Jamie,Vardy,4,9,13,,2020-03-12T16:00:18.992810Z,,Vardy,101668.jpg,a,101668
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+167,Kelechi,Iheanacho,4,9,13,,2020-02-22T21:30:18.745261Z,,Iheanacho,173515.jpg,a,173515
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+168,Kasper,Schmeichel,1,9,13,,,,Schmeichel,17745.jpg,a,17745
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+169,Eldin,Jakupovic,1,9,13,,,,Jakupovic,11974.jpg,a,11974
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+170,Danny,Ward,1,9,13,,,,Ward,95463.jpg,a,95463
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+171,James,Maddison,3,9,13,Hip injury - Unknown return date,2020-07-03T13:12:17.470888Z,,Maddison,172780.jpg,i,172780
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+172,Harvey,Barnes,3,9,13,,2019-12-21T19:30:16.602039Z,,Barnes,201666.jpg,a,201666
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+173,Rachid,Ghezzal,3,9,13,Joined Fiorentina on loan until the end of the season on 2/9. - Expected back 01 Aug,2019-09-18T22:00:13.300063Z,,Ghezzal,115858.jpg,n,115858
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+174,Marc,Albrighton,3,9,13,,2020-07-12T20:30:24.145970Z,,Albrighton,51938.jpg,a,51938
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+175,Demarai,Gray,3,9,13,,2019-12-01T23:30:20.997051Z,,Gray,172632.jpg,a,172632
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+176,Wilfred,Ndidi,3,9,13,,2020-02-01T14:30:20.874570Z,,Ndidi,203341.jpg,a,203341
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+177,Matty,James,3,9,13,,2019-08-27T12:30:14.308742Z,,James,61604.jpg,a,61604
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+178,Daniel,Amartey,3,9,13,Ankle injury - Unknown return date,2020-01-10T15:00:19.392765Z,,Amartey,155569.jpg,i,155569
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+179,Nampalys,Mendy,3,9,13,,2020-01-22T21:30:23.983564Z,,Mendy,86881.jpg,a,86881
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+180,Hamza,Choudhury,3,9,13,,2020-02-14T22:30:11.974179Z,,Choudhury,197469.jpg,a,197469
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+265,Ayoze,Pérez,3,9,13,,2020-07-05T00:00:20.762456Z,,Pérez,168580.jpg,a,168580
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+404,Ryan,Bennett,2,9,13,,2020-06-16T09:30:20.239662Z,,Bennett,41727.jpg,a,41727
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+433,James,Justin,2,9,13,,,,Justin,220627.jpg,a,220627
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+448,Youri,Tielemans,3,9,13,,,,Tielemans,166989.jpg,a,166989
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+480,Andy,King,3,9,13,Joined Huddersfield Town on loan until the end of the season on 16/1. - Expected back 01 Aug,2019-08-15T22:00:13.587784Z,,King,13152.jpg,n,13152
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+517,Dennis,Praet,3,9,13,,2020-06-18T16:00:21.295216Z,,Praet,106837.jpg,a,106837
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+597,Filip,Benkovic,2,9,13,Joined Bristol City on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T23:00:20.852440Z,,Benkovic,213405.jpg,n,213405
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+660,Luke,Thomas,2,9,13,,,,Thomas,244619.jpg,a,244619
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+661,George,Hirst,4,9,13,,,,Hirst,222625.jpg,a,222625
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+662,Darnell,Johnson,2,9,13,,,,Johnson,173810.jpg,a,173810
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+181,Andrew,Robertson,2,10,14,,2020-03-07T14:30:16.708069Z,,Robertson,122798.jpg,a,122798
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+182,Trent,Alexander-Arnold,2,10,14,,2019-10-22T15:00:19.720774Z,,Alexander-Arnold,169187.jpg,a,169187
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+183,Virgil,van Dijk,2,10,14,,2019-10-27T20:00:16.725016Z,,van Dijk,97032.jpg,a,97032
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+184,Joseph,Gomez,2,10,14,,2020-02-29T20:00:17.305841Z,,Gomez,171287.jpg,a,171287
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+185,Joel,Matip,2,10,14,Toe Injury - Unknown return date,2020-06-21T21:30:15.129579Z,,Matip,60914.jpg,i,60914
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+186,Dejan,Lovren,2,10,14,,2020-07-02T22:00:22.906556Z,,Lovren,38454.jpg,a,38454
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+187,Roberto,Firmino,4,10,14,,,,Firmino,92217.jpg,a,92217
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+188,Divock,Origi,4,10,14,,2019-09-14T13:30:10.426607Z,,Origi,152760.jpg,a,152760
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+189,Alisson,Ramses Becker,1,10,14,,2020-03-06T14:00:17.901193Z,,Alisson,116535.jpg,a,116535
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+190,Simon,Mignolet,1,10,14,Joined Club Brugge on a permanent deal on 5/8,2019-08-05T14:30:10.321194Z,,Mignolet,66797.jpg,u,66797
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+191,Mohamed,Salah,3,10,14,,2019-11-12T23:00:18.865321Z,,Salah,118748.jpg,a,118748
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+192,Sadio,Mané,3,10,14,,2020-01-23T22:00:20.209143Z,,Mané,110979.jpg,a,110979
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+193,Alex,Oxlade-Chamberlain,3,10,14,,2019-12-22T10:30:14.855332Z,,Chamberlain,81880.jpg,a,81880
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+194,Xherdan,Shaqiri,3,10,14,,2020-01-20T01:30:26.101594Z,,Shaqiri,68312.jpg,a,68312
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+195,Adam,Lallana,3,10,14,,2020-01-23T22:00:20.242805Z,,Lallana,39155.jpg,a,39155
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+196,Naby,Keita,3,10,14,,2020-02-29T20:00:17.326447Z,,Keita,175592.jpg,a,175592
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+197,Fabio Henrique,Tavares,3,10,14,,2019-11-23T17:00:22.531327Z,,Fabinho,116643.jpg,a,116643
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+198,Jordan,Henderson,3,10,14,Knee injury - Unknown return date,2020-07-08T21:30:19.658398Z,,Henderson,56979.jpg,i,56979
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+199,Georginio,Wijnaldum,3,10,14,,2019-12-14T14:30:24.028899Z,,Wijnaldum,41733.jpg,a,41733
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+200,James,Milner,3,10,14,,2020-07-11T16:00:24.409220Z,,Milner,15157.jpg,a,15157
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+201,Rafael,Camacho,3,10,14,Joined Sporting CP on a permanent deal on 27/6,2019-07-02T09:00:13.203360Z,,Camacho,217989.jpg,u,217989
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+464,Rhian,Brewster,4,10,14,Joined Swansea City on loan until the end of the season on 7/1. - Expected back 01 Aug,2020-01-08T02:00:17.506626Z,,Brewster,195473.jpg,n,195473
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+526,Adrián,San Miguel del Castillo,1,10,14,,2019-08-16T11:00:10.760553Z,,Adrián,60706.jpg,a,60706
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+530,Andy,Lonergan,1,10,14,,,,Lonergan,11948.jpg,a,11948
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+531,Caoimhin,Kelleher,1,10,14,,2020-03-06T23:30:18.068595Z,,Kelleher,200720.jpg,a,200720
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+550,Harvey,Elliott,3,10,14,,2019-11-13T16:30:17.659021Z,,Elliott,444884.jpg,a,444884
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+569,Curtis,Jones,3,10,14,,,,Jones,206915.jpg,a,206915
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+575,Neco,Williams,2,10,14,,,,Williams,215136.jpg,a,215136
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+589,Nathaniel,Phillips,2,10,14,Joined Stuttgart on loan until the end of the season on 13/1. - Expected back 01 Aug,2020-01-13T10:30:15.674267Z,,Phillips,197464.jpg,n,197464
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+590,Takumi,Minamino,3,10,14,,,,Minamino,157882.jpg,a,157882
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+628,Ki-Jana,Hoever,2,10,14,,,,Hoever,441271.jpg,a,441271
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+202,Aymeric,Laporte,2,11,43,,2020-02-26T22:30:14.945527Z,,Laporte,146941.jpg,a,146941
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+203,Kyle,Walker,2,11,43,,2019-10-19T19:00:18.236898Z,,Walker,58621.jpg,a,58621
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+204,Benjamin,Mendy,2,11,43,,2020-03-12T23:00:15.905785Z,,Mendy,102826.jpg,a,102826
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+206,Oleksandr,Zinchenko,2,11,43,,2020-02-02T19:00:22.086802Z,,Zinchenko,206325.jpg,a,206325
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+207,John,Stones,2,11,43,,2020-06-19T16:00:13.376850Z,,Stones,97299.jpg,a,97299
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+208,Nicolás,Otamendi,2,11,43,,2020-01-02T20:30:18.886401Z,,Otamendi,57410.jpg,a,57410
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+209,Danilo Luiz,da Silva,2,11,43,Joined Juventus on a permanent deal on 7/8.,2019-08-07T20:30:14.457427Z,,Danilo,100180.jpg,u,100180
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+210,Sergio,Agüero,4,11,43,Knee injury - Unknown return date,2020-06-22T21:30:22.286531Z,,Agüero,37572.jpg,i,37572
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+211,Gabriel Fernando,de Jesus,4,11,43,,2019-12-27T19:30:12.474110Z,,Jesus,205651.jpg,a,205651
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+212,Ederson,Santana de Moraes,1,11,43,,2020-01-01T17:30:18.272745Z,,Ederson,121160.jpg,a,121160
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+213,Claudio,Bravo,1,11,43,Muscle injury - 75% chance of playing,2020-07-17T13:00:17.198790Z,,Bravo,33148.jpg,d,33148
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+214,Raheem,Sterling,3,11,43,,2020-02-02T19:00:22.102540Z,,Sterling,103955.jpg,a,103955
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+215,Kevin,De Bruyne,3,11,43,,2020-03-04T22:30:16.371900Z,,De Bruyne,61366.jpg,a,61366
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+216,Leroy,Sané,3,11,43,Joined Bayern Munich on a permanent deal on 3/7,2020-07-03T08:30:21.167208Z,,Sané,182156.jpg,u,182156
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+217,Riyad,Mahrez,3,11,43,,2020-01-27T16:30:23.592705Z,,Mahrez,103025.jpg,a,103025
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+218,Bernardo Mota,Veiga de Carvalho e Silva,3,11,43,,2019-11-13T14:30:18.982377Z,,Bernardo Silva,165809.jpg,a,165809
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+219,David,Silva,3,11,43,,2020-02-19T22:00:17.062940Z,,David Silva,20664.jpg,a,20664
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+220,Phil,Foden,3,11,43,,2020-06-25T21:00:17.015528Z,,Foden,209244.jpg,a,209244
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+221,Fernando,Luiz Rosa,3,11,43,,2020-06-25T21:30:18.302743Z,,Fernandinho,27789.jpg,a,27789
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+222,Ilkay,Gündogan,3,11,43,,2019-12-21T21:00:16.830224Z,,Gündogan,59859.jpg,a,59859
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+440,José Ángel,Esmorís Tasende,2,11,43,Joined RB Leipzig on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T20:30:19.011146Z,,Angeliño,145235.jpg,n,145235
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+443,Rodrigo,Hernandez,3,11,43,,2019-11-23T19:30:19.850877Z,,Rodrigo,220566.jpg,a,220566
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+518,João Pedro Cavaco,Cancelo,2,11,43,,2020-06-25T21:00:17.624434Z,,Cancelo,121145.jpg,a,121145
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+544,Eric,Garcia,2,11,43,,2020-06-17T22:00:17.332138Z,,Garcia,432656.jpg,a,432656
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+562,Scott,Carson,1,11,43,,,,Carson,17601.jpg,a,17601
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+642,Taylor,Harwood-Bellis,2,11,43,,,,Harwood-Bellis,245719.jpg,a,245719
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+643,Cole,Palmer,3,11,43,,,,Palmer,244851.jpg,a,244851
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+644,Tommy,Doyle,3,11,43,,,,Doyle,220394.jpg,a,220394
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+122,Aaron,Wan-Bissaka,2,12,1,,2020-03-04T10:30:26.229276Z,,Wan-Bissaka,214590.jpg,a,214590
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+160,Harry,Maguire,2,12,1,,2020-03-05T21:30:18.986938Z,,Maguire,95658.jpg,a,95658
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+223,Chris,Smalling,2,12,1,Joined AS Roma on loan until the end of the season on 30/8. - Expected back 01 Aug,2019-08-30T19:00:16.913287Z,,Smalling,55909.jpg,n,55909
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+224,Ashley,Young,2,12,1,Joined Inter Milan on a permanent deal on 17/1,2020-01-18T00:00:18.215118Z,,Young,18892.jpg,u,18892
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+225,Victor,Lindelöf,2,12,1,,2020-07-04T17:30:20.591352Z,,Lindelöf,184667.jpg,a,184667
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+226,Luke,Shaw,2,12,1,Ankle injury - 75% chance of playing,2020-07-13T21:30:24.523770Z,,Shaw,106760.jpg,d,106760
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+227,Marcos,Rojo,2,12,1,Joined Estudiantes on loan until the end of the season on 30/1. - Expected back 01 Aug,2019-11-22T11:30:18.673309Z,,Rojo,58893.jpg,n,58893
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+228,Eric,Bailly,2,12,1,,2020-07-19T19:30:19.834036Z,,Bailly,197365.jpg,a,197365
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+229,José Diogo,Dalot Teixeira,2,12,1,,2020-03-13T10:30:19.027485Z,,Dalot,216051.jpg,a,216051
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+230,Matteo,Darmian,2,12,1,Joined Parma on a permanent deal on 2/9,2019-09-02T10:00:09.526159Z,,Darmian,40002.jpg,u,40002
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+231,Phil,Jones,2,12,1,,2020-06-11T09:30:16.200234Z,,Jones,76359.jpg,a,76359
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+232,Romelu,Lukaku,4,12,1,Joined Inter Milan on a permanent deal on 8/8,2019-08-08T16:00:18.534831Z,,Lukaku,66749.jpg,u,66749
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+233,Marcus,Rashford,4,12,1,,2020-01-11T22:00:19.929400Z,,Rashford,176297.jpg,a,176297
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+234,Mason,Greenwood,4,12,1,,2020-07-15T17:00:22.587195Z,,Greenwood,220688.jpg,a,220688
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+235,David,de Gea,1,12,1,,2019-10-15T20:30:15.609048Z,,de Gea,51940.jpg,a,51940
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+236,Sergio,Romero,1,12,1,,,,Romero,42899.jpg,a,42899
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+237,Lee,Grant,1,12,1,,2020-02-26T12:00:21.858182Z,,Grant,6744.jpg,a,6744
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+238,Paul,Pogba,3,12,1,,2020-01-01T22:00:21.579969Z,,Pogba,74208.jpg,a,74208
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+239,Anthony,Martial,3,12,1,,2020-03-11T23:00:15.982993Z,,Martial,148225.jpg,a,148225
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+240,Alexis,Sánchez,3,12,1,Joined Inter on loan until the end of the season on 29/8. - Expected back 01 Aug,2019-08-09T10:00:14.686303Z,,Sánchez,37265.jpg,n,37265
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+241,Jesse,Lingard,3,12,1,,2020-03-13T10:30:19.085305Z,,Lingard,109322.jpg,a,109322
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+242,Juan,Mata,3,12,1,,,,Mata,43670.jpg,a,43670
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+243,Daniel,James,3,12,1,,2020-03-04T10:30:26.710993Z,,James,200617.jpg,a,200617
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+244,Frederico,Rodrigues de Paula Santos,3,12,1,,,,Fred,101582.jpg,a,101582
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+245,Angel,Gomes,3,12,1,Contract with club expired on 30/6,2020-06-30T23:30:23.021695Z,,Gomes,209041.jpg,u,209041
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+246,Andreas,Pereira,3,12,1,,,,Pereira,156689.jpg,a,156689
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+247,Nemanja,Matic,3,12,1,,2020-01-29T23:00:26.987873Z,,Matic,62398.jpg,a,62398
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+248,Scott,McTominay,3,12,1,,2019-12-26T20:30:10.514072Z,,McTominay,195851.jpg,a,195851
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+249,Tahith,Chong,3,12,1,,,,Chong,222677.jpg,a,222677
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+250,James,Garner,3,12,1,,,,Garner,232928.jpg,a,232928
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+481,Axel,Tuanzebe,2,12,1,Unknown - 75% chance of playing,2020-06-18T11:30:15.835129Z,,Tuanzebe,180804.jpg,d,180804
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+549,Brandon,Williams,2,12,1,,2020-07-13T21:30:25.254813Z,,Williams,232937.jpg,a,232937
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+618,Bruno Miguel,Borges Fernandes,3,12,1,,,,Fernandes,141746.jpg,a,141746
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+624,Odion,Ighalo,4,12,1,,,,Ighalo,58498.jpg,a,58498
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+658,Timothy,Fosu-Mensah,2,12,1,,,,Fosu-Mensah,201084.jpg,a,201084
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+251,Matt,Ritchie,2,13,4,,2020-06-24T19:30:22.050161Z,,Ritchie,56983.jpg,a,56983
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+252,Fabian,Schär,2,13,4,Shoulder Dislocation - Expected back 05 Sep,2020-07-15T19:30:25.518170Z,,Schär,119471.jpg,i,119471
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+253,DeAndre,Yedlin,2,13,4,,2020-01-10T11:00:14.429012Z,,Yedlin,151119.jpg,a,151119
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+254,Federico,Fernández,2,13,4,,,,Fernández,57145.jpg,a,57145
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+255,Paul,Dummett,2,13,4,Not included in Newcastle United's 25-man Premier League squad. - Unknown return date,2020-06-17T12:30:22.810145Z,,Dummett,106618.jpg,n,106618
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+256,Javier,Manquillo,2,13,4,,2020-07-01T22:00:26.474744Z,,Manquillo,109528.jpg,a,109528
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+257,Florian,Lejeune,2,13,4,Thigh injury - Unknown return date,2020-06-23T10:00:16.062742Z,,Lejeune,77359.jpg,i,77359
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+258,Jamaal,Lascelles,2,13,4,Ankle injury - Expected back 05 Sep,2020-07-14T09:00:23.254797Z,,Lascelles,101148.jpg,i,101148
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+259,Ciaran,Clark,2,13,4,Ankle injury - Unknown return date,2020-06-23T10:00:16.074550Z,,Clark,58845.jpg,i,58845
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+260,Yoshinori,Muto,4,13,4,,2020-01-05T01:00:12.204380Z,,Muto,196118.jpg,a,196118
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+261,Jose Luis,Mato Sanmartín,4,13,4,Joined Alaves on a permanent deal on 15/7,2019-07-16T00:30:14.636406Z,,Joselu,61316.jpg,u,61316
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+262,Martin,Dubravka,1,13,4,,2020-03-11T10:30:15.441857Z,,Dubravka,67089.jpg,a,67089
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+263,Karl,Darlow,1,13,4,,2019-12-21T00:30:21.220532Z,,Darlow,59735.jpg,a,59735
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+264,Frederick,Woodman,1,13,4,Joined Swansea City on loan until the end of the season on 1/8. - Expected back 01 Aug,2019-08-01T10:00:13.686109Z,,Woodman,155503.jpg,n,155503
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+266,Miguel,Almirón,3,13,4,,2020-07-14T10:30:24.097273Z,,Almirón,179018.jpg,a,179018
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+267,Christian,Atsu,3,13,4,,2020-02-21T11:00:13.472456Z,,Atsu,104953.jpg,a,104953
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+268,Sung-yueng,Ki,3,13,4,Contract terminated by mutual consent on 31/1,2020-01-10T11:00:14.512940Z,,Ki Sung-yueng,76542.jpg,u,76542
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+269,Jonjo,Shelvey,3,13,4,,2020-01-31T01:00:23.633399Z,,Shelvey,50232.jpg,a,50232
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+270,Sean,Longstaff,3,13,4,,2020-07-01T19:00:23.330260Z,,Longstaff,180135.jpg,a,180135
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+271,Isaac,Hayden,3,13,4,,2020-07-05T15:00:20.293610Z,,Hayden,153127.jpg,a,153127
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+332,Danny,Rose,2,13,4,,2020-07-14T09:00:23.395455Z,,Rose,38290.jpg,a,38290
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+466,Joelinton Cássio,Apolinário de Lira,4,13,4,,2020-07-03T13:00:21.822079Z,,Joelinton,180974.jpg,a,180974
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+482,Jack,Colback,3,13,4,Contract ends on 30/6,2019-09-18T22:00:13.777925Z,,Colback,58771.jpg,u,58771
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+483,Jacob,Murphy,3,13,4,Joined Sheffield Wednesday on loan until the end of the season on 8/8. - Expected back 01 Aug,2019-08-08T16:30:11.441250Z,,Murphy,114243.jpg,n,114243
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+498,Jetro,Willems,2,13,4,Loan ended,2020-01-18T19:30:18.512868Z,,Willems,92159.jpg,u,92159
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+499,Rolando,Aarons,3,13,4,Joined Motherwell on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T23:00:20.689971Z,,Aarons,155513.jpg,n,155513
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+500,Allan,Saint-Maximin,3,13,4,,2020-07-16T09:30:25.428563Z,,Saint-Maximin,170137.jpg,a,170137
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+519,Emil,Krafth,2,13,4,Ankle injury - 75% chance of playing,2020-07-21T01:00:22.962753Z,,Krafth,111773.jpg,d,111773
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+520,Andy,Carroll,4,13,4,,2020-07-07T12:30:15.749501Z,,Carroll,40142.jpg,a,40142
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+540,Matthew,Longstaff,3,13,4,,2020-06-11T09:30:16.664145Z,,Matthew Longstaff,223175.jpg,a,223175
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+554,Dwight,Gayle,4,13,4,,2020-03-13T10:30:19.636981Z,,Gayle,104547.jpg,a,104547
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+573,Robert,Elliot,1,13,4,Contract with club expired on 30/6,2020-06-25T15:00:20.908856Z,,Elliot,19838.jpg,u,19838
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+598,Thomas,Allan,3,13,4,,,,Allan,232957.jpg,a,232957
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+599,Kelland,Watts,2,13,4,,2020-01-29T10:30:22.945557Z,,Watts,232977.jpg,a,232977
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+610,Liam,Gibson,2,13,4,Contract with club expired on 30/6,2020-06-29T23:30:25.942535Z,,Gibson,156069.jpg,u,156069
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+612,Nabil,Bentaleb,3,13,4,,,,Bentaleb,126407.jpg,a,126407
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+614,Valentino,Lazaro,3,13,4,,2020-02-22T18:00:19.527983Z,,Lazaro,116543.jpg,a,116543
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+656,Jack,Young,3,13,4,,,,Young,232979.jpg,a,232979
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+272,Timm,Klose,2,14,45,Hamstring injury - Unknown return date,2020-07-24T12:00:20.143505Z,,Klose,84384.jpg,i,84384
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+273,Ben,Godfrey,2,14,45,,2020-01-18T19:30:17.891258Z,,Godfrey,198826.jpg,a,198826
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+274,Maximillian,Aarons,2,14,45,,2020-06-30T13:00:23.397746Z,,Aarons,232980.jpg,a,232980
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+275,Christoph,Zimmermann,2,14,45,,2020-06-18T13:00:16.109151Z,,Zimmermann,192303.jpg,a,192303
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+276,Jamal,Lewis,2,14,45,,2019-11-18T15:00:15.322949Z,,Lewis,194799.jpg,a,194799
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+277,Grant,Hanley,2,14,45,Hamstring injury - Expected back 10 Oct,2020-06-17T11:00:21.718231Z,,Hanley,83428.jpg,i,83428
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+278,Teemu,Pukki,4,14,45,,2020-03-03T15:00:27.073569Z,,Pukki,57127.jpg,a,57127
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+279,Dennis,Srbeny,4,14,45,Joined SC Paderborn on a permanent deal on 8/1,2020-01-03T15:30:19.113612Z,,Srbeny,179587.jpg,u,179587
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+280,Tim,Krul,1,14,45,,2019-10-27T20:00:16.930339Z,,Krul,20480.jpg,a,20480
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+281,Michael,McGovern,1,14,45,,,,McGovern,18499.jpg,a,18499
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+282,Mario,Vrancic,3,14,45,,2020-01-21T14:00:15.440064Z,,Vrancic,37614.jpg,a,37614
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+283,Emiliano,Buendía,3,14,45,Suspended - unknown return date,2020-07-18T18:30:24.579475Z,,Buendía,195546.jpg,s,195546
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+284,Onel,Hernández,3,14,45,,2020-02-21T13:30:22.348352Z,,Hernández,89470.jpg,a,89470
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+285,Marco,Stiepermann,3,14,45,,,,Stiepermann,71738.jpg,a,71738
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+286,Kenny,McLean,3,14,45,,2020-07-10T22:30:16.780744Z,,McLean,78607.jpg,a,78607
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+287,Todd,Cantwell,3,14,45,,2020-07-06T13:00:16.080743Z,,Cantwell,193111.jpg,a,193111
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+288,Moritz,Leitner,3,14,45,Hernia - Unknown return date,2020-06-30T13:00:23.430220Z,,Leitner,87396.jpg,i,87396
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+289,Alexander,Tettey,3,14,45,Knee injury - Unknown return date,2020-07-24T12:00:20.187363Z,,Tettey,18665.jpg,i,18665
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+290,Tom,Trybull,3,14,45,,2019-09-04T09:00:11.384947Z,,Trybull,90440.jpg,a,90440
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+434,Josip,Drmic,4,14,45,Suspended - unknown return date,2020-07-18T18:30:24.836970Z,,Drmic,81048.jpg,s,81048
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+435,Patrick,Roberts,3,14,45,Joined Middlesbrough on loan until the end of the season on 2/1. - Expected back 01 Aug,2020-01-02T20:30:19.362679Z,,Roberts,124165.jpg,n,124165
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+449,Ralf,Fahrmann,1,14,45,Loan ended,2020-03-03T15:00:27.954303Z,,Fahrmann,28082.jpg,u,28082
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+454,Sam,Byram,2,14,45,Hamstring injury - Unknown return date,2020-06-18T13:00:16.340130Z,,Byram,113564.jpg,i,113564
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+484,Philip,Heise,2,14,45,Joined Nurnberg on loan until the end of the season on 4/1. - Expected back 01 Aug,2020-01-10T20:00:21.434889Z,,Heise,101061.jpg,n,101061
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+507,Ibrahim,Amadou,3,14,45,Loan deal ended on 31/1,2020-01-31T23:00:20.708006Z,,Amadou,128348.jpg,u,128348
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+538,Adam,Idah,4,14,45,,2020-06-30T13:00:24.108530Z,,Idah,432735.jpg,a,432735
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+551,Archie,Mair,1,14,45,Joined King's Lynn Town on loan until the end of the 2020/21 season on 20/7. - Expected back 01 Jul,2020-07-20T13:30:23.702475Z,,Mair,233849.jpg,n,233849
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+552,Akin,Famewo,2,14,45,,2020-01-08T10:30:20.484548Z,,Famewo,232667.jpg,a,232667
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+601,Ondrej,Duda,3,14,45,Loan deal ended on 13/7,2020-07-13T13:00:20.440132Z,,Duda,139110.jpg,u,139110
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+602,Lukas,Rupp,3,14,45,,2020-06-30T13:00:24.308067Z,,Rupp,76306.jpg,a,76306
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+632,Josh,Martin,3,14,45,,,,Martin,439485.jpg,a,439485
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+650,Jordan,Thomas,2,14,45,,,,Thomas,444253.jpg,a,444253
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+669,Daniel,Adshead,3,14,45,,,,Adshead,431924.jpg,a,431924
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+70,Lys,Mousset,4,15,49,,2019-12-08T16:00:13.029423Z,,Mousset,178304.jpg,a,178304
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+291,Enda,Stevens,2,15,49,,2020-03-07T17:30:22.251104Z,,Stevens,63426.jpg,a,63426
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+292,Kieron,Freeman,2,15,49,,,,Freeman,87121.jpg,a,87121
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+293,Jack,O'Connell,2,15,49,,2020-06-17T11:00:21.732857Z,,O'Connell,146610.jpg,a,146610
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+294,George,Baldock,2,15,49,,,,Baldock,82691.jpg,a,82691
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+295,John,Egan,2,15,49,,2020-06-21T14:30:21.128190Z,,Egan,108416.jpg,a,108416
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+296,Richard,Stearman,2,15,49,Contract terminated by mutual consent on 10/1,2020-01-10T20:30:14.424021Z,,Stearman,18832.jpg,u,18832
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+297,John,Lundstram,2,15,49,,2020-06-28T16:30:15.102286Z,,Lundstram,153723.jpg,a,153723
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+298,Billy,Sharp,4,15,49,,2019-09-14T17:00:16.602437Z,,Sharp,18867.jpg,a,18867
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+299,Jake,Eastwood,1,15,49,,2019-10-21T21:30:15.275741Z,,Eastwood,213280.jpg,a,213280
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+300,Mark,Duffy,3,15,49,Contract with club expired on 30/6,2019-08-08T17:30:15.368429Z,,Duffy,59614.jpg,u,59614
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+301,John,Fleck,3,15,49,,2020-07-02T19:00:24.668326Z,,Fleck,47247.jpg,a,47247
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+302,Oliver,Norwood,3,15,49,,,,Norwood,79934.jpg,a,79934
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+303,David,McGoldrick,4,15,49,,2020-07-09T15:00:25.021003Z,,McGoldrick,27436.jpg,a,27436
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+423,Chris,Basham,2,15,49,,2020-07-11T19:00:16.481173Z,,Basham,40386.jpg,a,40386
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+436,Simon,Moore,1,15,49,,2019-12-22T12:00:21.115265Z,,Moore,74854.jpg,a,74854
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+441,Luke,Freeman,3,15,49,Unknown - 75% chance of playing,2020-07-02T19:00:24.937572Z,,Freeman,49083.jpg,d,49083
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+444,Phil,Jagielka,2,15,49,,,,Jagielka,7645.jpg,a,7645
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+453,Callum,Robinson,3,15,49,Joined West Bromwich Albion on loan until the end of the season on 29/1. - Expected back 01 Aug,2020-01-29T10:30:22.129197Z,,Callum Robinson,171975.jpg,n,171975
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+456,Ravel,Morrison,3,15,49,Joined Middlesbrough on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T21:00:15.307952Z,,Morrison,90518.jpg,n,90518
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+471,Dean,Henderson,1,15,49,,2020-06-21T13:30:20.468284Z,,Henderson,172649.jpg,a,172649
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+472,Ben,Osborn,3,15,49,,,,Osborn,167878.jpg,a,167878
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+501,Oliver,McBurnie,4,15,49,,2020-07-08T21:30:20.443122Z,,McBurnie,169432.jpg,a,169432
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+521,Michael,Verrips,1,15,49,,2020-01-05T22:00:20.835811Z,,Verrips,194126.jpg,a,194126
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+522,Muhamed,Bešić,3,15,49,Returned to Everton where contract expired on 30/06,2020-07-01T07:48:51.213966Z,,Bešić,87447.jpg,u,87447
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+547,Leon,Clarke,4,15,49,,2020-07-03T12:30:22.088014Z,,Clarke,18440.jpg,a,18440
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+591,Jack,Rodwell,3,15,49,,,,Rodwell,49384.jpg,a,49384
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+611,Jack,Robinson,2,15,49,,,,Jack Robinson,83427.jpg,a,83427
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+621,Sander,Berge,3,15,49,,,,Berge,207189.jpg,a,207189
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+622,Richairo,Zivkovic,4,15,49,,,,Zivkovic,147612.jpg,a,147612
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+625,Panagiotis,Retsos,2,15,49,Loan deal ended on 21/6,2020-06-22T13:30:23.323187Z,,Retsos,222786.jpg,u,222786
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+304,Jannik,Vestergaard,2,16,20,,2020-07-03T15:00:19.757094Z,,Vestergaard,93100.jpg,a,93100
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+305,Ryan,Bertrand,2,16,20,,2019-10-25T21:00:19.447070Z,,Bertrand,40146.jpg,a,40146
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+306,Yan,Valery,2,16,20,,2020-07-03T15:00:19.770297Z,,Valery,213482.jpg,a,213482
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+307,Jan,Bednarek,2,16,20,,2020-07-19T13:30:20.797590Z,,Bednarek,171771.jpg,a,171771
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+308,Jack,Stephens,2,16,20,,2020-06-25T21:00:17.144309Z,,Stephens,88900.jpg,a,88900
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+310,Maya,Yoshida,2,16,20,Contract with club expired on 30/6,2020-01-31T21:00:15.036808Z,,Yoshida,80447.jpg,u,80447
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+311,Kayne,Ramsay,2,16,20,Joined Shrewsbury Town on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T10:30:15.652773Z,,Ramsay,232797.jpg,n,232797
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+312,Charlie,Austin,4,16,20,Joined West Bromwich Albion on a permanent deal on 8/8,2019-08-08T15:00:14.602505Z,,Austin,78356.jpg,u,78356
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+313,Danny,Ings,4,16,20,,,,Ings,84939.jpg,a,84939
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+314,Michael,Obafemi,4,16,20,,2019-12-31T20:00:19.430867Z,,Obafemi,220598.jpg,a,220598
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+315,Shane,Long,4,16,20,,2020-06-17T13:30:19.858842Z,,Long,20452.jpg,a,20452
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+316,Sam,Gallagher,4,16,20,Joined Blackburn Rovers on a permanent deal on 13/7,2019-07-14T15:00:12.872120Z,,Gallagher,153371.jpg,u,153371
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+317,Fraser,Forster,1,16,20,Joined Celtic on loan until the end of the season on 22/8. - Expected back 01 Aug,2019-08-22T21:00:16.083355Z,,Forster,40383.jpg,n,40383
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+318,Alex,McCarthy,1,16,20,,2019-09-26T13:00:09.737144Z,,McCarthy,58376.jpg,a,58376
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+319,Angus,Gunn,1,16,20,,,,Gunn,107265.jpg,a,107265
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+320,Nathan,Redmond,3,16,20,,2020-02-15T14:30:17.921095Z,,Redmond,83283.jpg,a,83283
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+321,James,Ward-Prowse,3,16,20,,2020-02-05T22:00:18.700245Z,,Ward-Prowse,101178.jpg,a,101178
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+322,Mohamed,Elyounoussi,3,16,20,Joined Celtic on loan until the end of the 2020/21 season on 30/6. - Expected back 01 Jul,2019-08-31T00:00:09.798881Z,,Elyounoussi,96787.jpg,n,96787
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+323,Stuart,Armstrong,3,16,20,,2020-03-05T14:00:19.096572Z,,Armstrong,91047.jpg,a,91047
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+324,Mario,Lemina,3,16,20,Joined Galatasaray on loan until the end of the season on 2/9. - Expected back 01 Aug,2019-09-02T23:30:15.367440Z,,Lemina,151086.jpg,n,151086
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+325,Pierre-Emile,Højbjerg,3,16,20,,2020-06-26T12:30:27.835753Z,,Højbjerg,132015.jpg,a,132015
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+326,Tyreke,Johnson,3,16,20,Join Hartford Athletic on loan until December on 24/2. - Expected back 31 Dec,2020-07-01T09:30:24.830291Z,,Johnson,204481.jpg,n,204481
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+327,Callum,Slattery,3,16,20,Joined De Graafschap on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T22:00:17.543300Z,,Slattery,193109.jpg,n,193109
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+328,Oriol,Romeu Vidal,3,16,20,,,,Oriol Romeu,78056.jpg,a,78056
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+337,Kyle,Walker-Peters,2,16,20,,2020-02-20T14:00:20.750910Z,,Walker-Peters,158534.jpg,a,158534
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+437,Che,Adams,4,16,20,,,,Adams,200439.jpg,a,200439
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+438,Moussa,Djenepo,3,16,20,Calf injury - Unknown return date,2020-07-07T14:30:18.268112Z,,Djenepo,431131.jpg,i,431131
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+485,Wesley,Hoedt,2,16,20,Joined Antwerp on loan until the end of the season on 2/9. - Expected back 01 Aug,2019-09-02T23:30:15.561045Z,,Hoedt,167075.jpg,n,167075
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+508,Sofiane,Boufal,3,16,20,Thigh injury - Unknown return date,2020-06-26T12:30:28.282398Z,,Boufal,128198.jpg,i,128198
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+532,Kevin,Danso,2,16,20,,2019-12-19T15:00:20.159210Z,,Danso,135720.jpg,a,135720
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+535,Daniel,N'Lundulu,4,16,20,,,,N'Lundulu,200088.jpg,a,200088
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+548,Harry,Lewis,1,16,20,,,,Lewis,198044.jpg,a,198044
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+584,William,Smallbone,3,16,20,,2020-03-05T14:00:19.615123Z,,Smallbone,214466.jpg,a,214466
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+633,Nathan,Tella,3,16,20,Contract with club expired on 30/6,2020-06-30T23:30:24.100435Z,,Tella,203389.jpg,u,203389
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+645,Jake,Vokins,2,16,20,,,,Vokins,214470.jpg,a,214470
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+649,Alexandre,Jankewitz,3,16,20,,,,Jankewitz,449781.jpg,a,449781
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+654,Will,Ferry,3,16,20,,,,Ferry,422306.jpg,a,422306
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+663,Jacob,Maddox,3,16,20,,,,Maddox,174590.jpg,a,174590
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+329,Ben,Davies,2,17,6,,2020-03-08T15:00:19.273544Z,,Davies,115556.jpg,a,115556
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+330,Jan,Vertonghen,2,17,6,,2019-11-01T14:00:13.161821Z,,Vertonghen,39194.jpg,a,39194
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+331,Toby,Alderweireld,2,17,6,,,,Alderweireld,55605.jpg,a,55605
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+333,Davinson,Sánchez,2,17,6,,2020-03-11T11:00:17.618134Z,,Sánchez,173904.jpg,a,173904
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+334,Kieran,Trippier,2,17,6,Joined Atletico Madrid on a permanent deal on 17/7,2019-07-18T09:00:08.860585Z,,Trippier,77794.jpg,u,77794
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+335,Juan,Foyth,2,17,6,,2020-06-22T13:30:22.464829Z,,Foyth,234908.jpg,a,234908
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+336,Serge,Aurier,2,17,6,,2020-07-17T13:30:18.133778Z,,Aurier,80226.jpg,a,80226
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+338,Harry,Kane,4,17,6,,2020-01-01T17:30:18.573337Z,,Kane,78830.jpg,a,78830
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+339,Vincent,Janssen,4,17,6,Joined Monterrey on a permanent deal on 23/7,2019-07-30T07:00:10.626522Z,,Janssen,165990.jpg,u,165990
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+340,Hugo,Lloris,1,17,6,,2020-03-01T14:30:24.052498Z,,Lloris,37915.jpg,a,37915
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+341,Paulo,Gazzaniga,1,17,6,,,,Gazzaniga,102884.jpg,a,102884
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+342,Heung-Min,Son,3,17,6,,2020-02-18T12:00:16.397536Z,,Son,85971.jpg,a,85971
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+343,Christian,Eriksen,3,17,6,Joined Inter Milan on a permanent deal on 28/1,2020-01-28T13:30:20.762908Z,,Eriksen,80607.jpg,u,80607
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+344,Bamidele,Alli,3,17,6,,2020-07-07T09:00:17.211647Z,,Alli,108823.jpg,a,108823
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+345,Lucas,Rodrigues Moura da Silva,3,17,6,,2020-06-19T22:00:14.686541Z,,Lucas Moura,95715.jpg,a,95715
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+346,Erik,Lamela,3,17,6,,2020-02-05T19:00:22.788643Z,,Lamela,62974.jpg,a,62974
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+347,Harry,Winks,3,17,6,,2020-01-22T22:00:22.005033Z,,Winks,157668.jpg,a,157668
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+348,Victor,Wanyama,3,17,6,Joined Montreal Impact on a permanent deal on 3/3,2020-03-03T22:30:26.929361Z,,Wanyama,54756.jpg,u,54756
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+349,Moussa,Sissoko,3,17,6,,2020-01-05T22:00:20.348120Z,,Sissoko,45268.jpg,a,45268
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+350,Eric,Dier,3,17,6,,2020-07-08T15:30:24.235288Z,,Dier,93264.jpg,a,93264
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+351,Luke,Amos,3,17,6,Joined QPR on loan until the end of the season on 1/7. - Expected back 01 Aug,2019-07-02T09:00:13.289180Z,,Amos,168764.jpg,n,168764
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+352,Oliver,Skipp,3,17,6,,,,Skipp,209042.jpg,a,209042
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+442,Tanguy,Ndombele,3,17,6,Unknown - Unknown return date,2020-07-14T12:30:21.809810Z,,Ndombele,231372.jpg,i,231372
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+509,Troy,Parrott,4,17,6,,2020-06-03T15:30:20.928449Z,,Parrott,447235.jpg,a,447235
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+523,Giovani,Lo Celso,3,17,6,,2020-07-10T23:00:25.492701Z,,Lo Celso,200826.jpg,a,200826
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+524,Ryan,Sessegnon,3,17,6,,2020-02-22T15:00:17.445711Z,,Sessegnon,184349.jpg,a,184349
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+527,Georges-Kévin,Nkoudou,3,17,6,Joined Besiktas on a permanent deal on 22/8,2019-08-22T12:30:17.630601Z,,Nkoudou,168566.jpg,u,168566
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+543,Alfie,Whiteman,1,17,6,,,,Whiteman,175941.jpg,a,175941
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+555,Michel,Vorm,1,17,6,,2019-11-21T14:30:20.107084Z,,Vorm,39215.jpg,a,39215
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+558,Brandon,Austin,1,17,6,,,,Austin,214572.jpg,a,214572
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+583,Japhet,Tanganga,2,17,6,,2020-06-15T16:00:16.549558Z,,Tanganga,199584.jpg,a,199584
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+605,Gedson,Carvalho Fernandes,3,17,6,,,,Fernandes,195774.jpg,a,195774
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+615,Steven,Bergwijn,3,17,6,,2020-03-08T15:00:19.797089Z,,Bergwijn,194252.jpg,a,194252
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+634,Harvey,White,3,17,6,,,,White,448791.jpg,a,448791
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+655,Dennis,Cirkin,2,17,6,,,,Cirkin,461195.jpg,a,461195
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+353,José,Holebas,2,18,57,Contract with club expired on 24/7,2020-07-24T18:00:21.751761Z,,Holebas,40868.jpg,u,40868
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+354,Christian,Kabasele,2,18,57,,2020-01-02T14:30:15.835545Z,,Kabasele,85624.jpg,a,85624
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+355,Adam,Masina,2,18,57,,2019-12-12T22:00:15.473547Z,,Masina,155651.jpg,a,155651
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+356,Adrian,Mariappa,2,18,57,,2019-12-28T17:00:19.627436Z,,Mariappa,20145.jpg,a,20145
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+357,Francisco,Femenía Far,2,18,57,,2020-01-01T17:30:18.675582Z,,Kiko Femenía,54484.jpg,a,54484
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+358,Craig,Cathcart,2,18,57,,2019-12-28T19:30:17.240152Z,,Cathcart,41338.jpg,a,41338
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+359,Daryl,Janmaat,2,18,57,Knee injury - Unknown return date,2020-06-15T00:30:15.706566Z,,Janmaat,52940.jpg,i,52940
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+360,Marc,Navarro,2,18,57,Joined Leganes on loan until the end of the season on 25/7. - Expected back 01 Aug,2019-07-26T16:00:12.508474Z,,Navarro,220166.jpg,n,220166
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+361,Sebastian,Prödl,2,18,57,Contract terminated on 31/1,2019-11-21T17:30:19.779527Z,,Prödl,41945.jpg,u,41945
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+362,Troy,Deeney,4,18,57,,2019-08-22T16:30:07.834073Z,,Deeney,41725.jpg,a,41725
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+363,Gerard,Deulofeu,4,18,57,Knee injury - Unknown return date,2020-02-29T20:00:17.592234Z,,Deulofeu,94924.jpg,i,94924
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+364,Andre,Gray,4,18,57,,,,Gray,73426.jpg,a,73426
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+365,Isaac,Success Ajayi,4,18,57,Achilles injury - Unknown return date,2020-06-18T16:30:14.601605Z,,Success,173514.jpg,i,173514
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+366,Ben,Foster,1,18,57,,,,Foster,9089.jpg,a,9089
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+367,Pontus,Dahlberg,1,18,57,Joined FC Emmen on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T20:30:18.862484Z,,Dahlberg,206882.jpg,n,206882
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+368,Abdoulaye,Doucouré,3,18,57,,2019-12-22T16:30:23.335692Z,,Doucouré,121599.jpg,a,121599
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+369,Roberto,Pereyra,3,18,57,,2020-01-05T01:00:12.397900Z,,Pereyra,61566.jpg,a,61566
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+370,Will,Hughes,3,18,57,,2019-12-28T17:00:19.675638Z,,Hughes,108413.jpg,a,108413
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+371,Tom,Cleverley,3,18,57,,2019-10-26T16:30:19.666204Z,,Cleverley,43250.jpg,a,43250
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+372,Ken,Sema,3,18,57,Joined Udinese on loan until the end of the season on 22/8. - Expected back 01 Aug,2019-08-22T10:30:11.423152Z,,Sema,157775.jpg,n,157775
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+373,Etienne,Capoue,3,18,57,Knock - 75% chance of playing,2020-07-17T22:00:17.686887Z,,Capoue,38439.jpg,d,38439
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+374,Nathaniel,Chalobah,3,18,57,,2020-02-02T22:30:14.195243Z,,Chalobah,89085.jpg,a,89085
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+375,Domingos,Quina,3,18,57,,2019-10-29T22:00:19.938793Z,,Quina,216058.jpg,a,216058
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+439,Craig,Dawson,2,18,57,,2020-02-02T22:30:14.335355Z,,Dawson,60232.jpg,a,60232
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+512,Danny,Welbeck,4,18,57,,2019-10-19T16:00:16.571131Z,,Welbeck,50175.jpg,a,50175
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+513,Heurelho da Silva,Gomes,1,18,57,,,,Gomes,18656.jpg,a,18656
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+525,Ismaïla,Sarr,3,18,57,,2020-01-18T14:30:17.497310Z,,Sarr,232185.jpg,a,232185
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+542,Dimitri,Foulquier,2,18,57,Joined Granada on loan until the end of the season on 2/1. - Expected back 01 Aug,2020-01-02T14:30:16.327156Z,,Foulquier,96767.jpg,n,96767
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+563,Ayotomiwa,Dele-Bashiru,3,18,57,,2019-12-31T10:30:25.925374Z,,Dele-Bashiru,175353.jpg,a,175353
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+592,João Pedro,Junqueira de Jesus,4,18,57,,2020-01-23T23:30:23.901314Z,,João Pedro,475168.jpg,a,475168
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+604,Ignacio,Pussetto,3,18,57,,,,Pussetto,168290.jpg,a,168290
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+648,Adalberto,Peñaranda,4,18,57,,,,Peñaranda,194401.jpg,a,194401
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+376,Aaron,Cresswell,2,19,21,Knock - 75% chance of playing,2020-07-22T19:00:15.793485Z,,Cresswell,55459.jpg,d,55459
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+377,Angelo,Ogbonna,2,19,21,,2020-06-30T13:00:23.642653Z,,Ogbonna,40669.jpg,a,40669
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+378,Arthur,Masuaku,2,19,21,,2020-06-22T10:00:22.637065Z,,Masuaku,105717.jpg,a,105717
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+379,Pablo,Zabaleta,2,19,21,Contract with club expired on 30/6,2020-06-25T12:00:15.615513Z,,Zabaleta,20658.jpg,u,20658
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+380,Ryan,Fredericks,2,19,21,,2020-07-17T22:00:17.700801Z,,Fredericks,81012.jpg,a,81012
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+381,Issa,Diop,2,19,21,,2019-11-23T14:30:26.684183Z,,Diop,219924.jpg,a,219924
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+382,Fabián,Balbuena,2,19,21,,,,Balbuena,166640.jpg,a,166640
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+383,Winston,Reid,2,19,21,Joined Sporting Kansas City on loan on 14/2. - Expected back 01 Aug,2020-02-16T00:00:20.203533Z,,Reid,48717.jpg,n,48717
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+384,Ben,Johnson,2,19,21,,,,Johnson,222018.jpg,a,222018
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+385,Marko,Arnautovic,4,19,21,Joined Shanghai SIPG on a permanent deal on 7/7,2019-07-23T08:30:10.476392Z,,Arnautovic,41464.jpg,u,41464
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+386,Javier,Hernández Balcázar,4,19,21,Joined Sevilla on a permanent deal on 2/9,2019-09-02T10:30:10.993084Z,,Chicharito,43020.jpg,u,43020
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+387,Alexandre Nascimento,Costa Silva,4,19,21,,2019-08-16T18:30:15.371373Z,,Xande Silva,209925.jpg,a,209925
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+388,Lukasz,Fabianski,1,19,21,,2020-01-10T22:00:14.825605Z,,Fabianski,37096.jpg,a,37096
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+389,Michail,Antonio,3,19,21,,2020-01-29T23:00:27.350948Z,,Antonio,57531.jpg,a,57531
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+390,Felipe Anderson,Pereira Gomes,3,19,21,,2020-07-03T13:00:21.628211Z,,Felipe Anderson,101537.jpg,a,101537
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+391,Manuel,Lanzini,3,19,21,,2019-11-09T17:30:13.315891Z,,Lanzini,86934.jpg,a,86934
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+392,Andriy,Yarmolenko,3,19,21,,2019-12-27T16:00:17.899814Z,,Yarmolenko,56377.jpg,a,56377
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+393,Robert,Snodgrass,3,19,21,Lack of match fitness - 75% chance of playing,2020-06-22T01:00:16.002951Z,,Snodgrass,18987.jpg,d,18987
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+394,Jack,Wilshere,3,19,21,,2019-11-22T23:30:19.447828Z,,Wilshere,54102.jpg,a,54102
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+395,Declan,Rice,3,19,21,,,,Rice,204480.jpg,a,204480
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+396,Mark,Noble,3,19,21,,2020-07-01T22:00:26.766154Z,,Noble,18073.jpg,a,18073
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+397,Carlos,Sánchez,3,19,21,Contract with club expired on 30/6,2020-06-25T12:00:15.650833Z,,Carlos Sánchez,42824.jpg,u,42824
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+398,Grady,Diangana,3,19,21,Joined West Bromwich Albion on loan until the end of the season on 8/8. - Expected back 01 Aug,2019-08-08T13:30:11.839198Z,,Diangana,179830.jpg,n,179830
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+399,Pablo,Fornals,3,19,21,,,,Fornals,217593.jpg,a,217593
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+400,Pedro,Obiang,3,19,21,Joined Sassuolo on a permanent deal on 25/7,2019-07-26T12:30:08.589709Z,,Obiang,59779.jpg,u,59779
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+450,Roberto,Jimenez Gago,1,19,21,Joined Deportivo Alaves on loan until the end of the season on 20/1. - Expected back 01 Aug,2020-01-20T12:30:21.190383Z,,Roberto,40694.jpg,n,40694
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+457,Sébastien,Haller,4,19,21,,2020-06-20T18:30:13.323566Z,,Haller,103123.jpg,a,103123
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+514,Albian,Ajeti,4,19,21,,,,Ajeti,181008.jpg,a,181008
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+553,David,Martin,1,19,21,,2019-12-14T20:00:18.201835Z,,Martin,19194.jpg,a,19194
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+568,Nathan,Holland,3,19,21,,2020-01-08T13:30:13.472150Z,,Holland,183487.jpg,a,183487
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+582,Joseph,Anang,1,19,21,,,,Anang,447879.jpg,a,447879
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+593,Jeremy,Ngakia,2,19,21,Contract ends on 30/6,2020-06-25T12:00:16.174747Z,,Ngakia,232391.jpg,u,232391
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+594,Gonçalo Bento,Soares Cardoso,2,19,21,,,,Cardoso,459373.jpg,a,459373
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+595,Bernardo,Costa Da Rosa,3,19,21,,,,Rosa,243710.jpg,a,243710
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+606,Darren,Randolph,1,19,21,,,,Randolph,32259.jpg,a,32259
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+616,Tomas,Soucek,3,19,21,,2020-02-24T22:00:20.240163Z,,Soucek,215439.jpg,a,215439
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+626,Jarrod,Bowen,3,19,21,,2020-07-22T19:00:16.240613Z,,Bowen,178186.jpg,a,178186
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+651,Alfie,Lewis,3,19,21,,,,Lewis,215407.jpg,a,215407
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+664,Conor,Coventry,3,19,21,,,,Coventry,222017.jpg,a,222017
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+401,Matt,Doherty,2,20,39,,2019-11-02T18:00:16.116872Z,,Doherty,87835.jpg,a,87835
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+402,Jonathan,Castro Otto,2,20,39,,2020-02-23T18:00:15.440248Z,,Jonny,114128.jpg,a,114128
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+403,Conor,Coady,2,20,39,,,,Coady,94147.jpg,a,94147
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+405,Willy,Boly,2,20,39,,2019-10-26T20:00:22.175817Z,,Boly,90585.jpg,a,90585
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+406,Rúben Gonçalo,Silva Nascimento Vinagre,2,20,39,,2020-01-15T22:30:19.238398Z,,Vinagre,216054.jpg,a,216054
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+407,Romain,Saïss,2,20,39,,2019-11-23T17:30:21.458182Z,,Saïss,107613.jpg,a,107613
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+408,Max,Kilman,2,20,39,,,,Kilman,214048.jpg,a,214048
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+409,Raúl,Jiménez,4,20,39,,2019-11-10T16:00:17.735784Z,,Jiménez,102057.jpg,a,102057
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+410,Diogo,Jota,4,20,39,,2020-01-03T16:00:15.223392Z,,Jota,194634.jpg,a,194634
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+411,Rui Pedro,dos Santos Patrício,1,20,39,,,,Patrício,38533.jpg,a,38533
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+412,John,Ruddy,1,20,39,,,,Ruddy,19236.jpg,a,19236
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+413,Will,Norris,1,20,39,Joined Ipswich Town on loan until the end of the season on 30/7. - Expected back 01 Aug,2019-07-30T15:30:08.533720Z,,Norris,168399.jpg,n,168399
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+414,Rúben Diogo,da Silva Neves,3,20,39,,2019-10-19T19:00:18.633381Z,,Neves,171317.jpg,a,171317
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+415,João Filipe Iria,Santos Moutinho,3,20,39,,,,Moutinho,19624.jpg,a,19624
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+416,Morgan,Gibbs-White,3,20,39,,2020-03-06T16:30:24.687750Z,,Gibbs-White,222531.jpg,a,222531
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+417,Adama,Traoré,3,20,39,,2020-07-10T15:00:18.335585Z,,Traoré,159533.jpg,a,159533
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+418,Hélder,Costa,3,20,39,Joined Leeds United on loan until the end of the season on 3/7. - Expected back 01 Aug,2019-07-03T13:00:11.133915Z,,Costa,165808.jpg,n,165808
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+419,Ivan,Cavaleiro,3,20,39,Joined Fulham on a permanent deal on 7/1,2019-07-14T15:00:13.027011Z,,Cavaleiro,166324.jpg,u,166324
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+420,Leander,Dendoncker,3,20,39,,2019-10-11T10:00:13.063158Z,,Dendoncker,151589.jpg,a,151589
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+473,Jesús,Vallejo Lázaro,2,20,39,Loan deal ended on 24/1,2020-01-24T13:00:17.740017Z,,Vallejo,178876.jpg,u,178876
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+487,Patrick,Cutrone,4,20,39,Joined Fiorentina on an 18-month loan deal on 10/1. - Expected back 01 Aug,2020-01-10T20:00:21.473387Z,,Cutrone,209353.jpg,n,209353
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+528,Pedro,Lomba Neto,3,20,39,,2020-07-07T13:00:16.320894Z,,Neto,247632.jpg,a,247632
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+559,Bernard,Ashley-Seal,4,20,39,Joined Accrington Stanley on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T23:30:17.691342Z,,Ashley-Seal,194798.jpg,n,194798
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+560,Taylor,Perry,3,20,39,,,,Perry,232361.jpg,a,232361
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+566,Owen,Otasowie,3,20,39,,,,Otasowie,250604.jpg,a,250604
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+567,Luke,Cundle,3,20,39,,,,Cundle,245923.jpg,a,245923
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+587,Oskar,Buur,2,20,39,,,,Buur,179456.jpg,a,179456
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+607,Ryan,Giles,2,20,39,Joined Coventry City on loan until the end of the season on 31/1. - Expected back 01 Aug,2020-01-31T20:30:19.344750Z,,Giles,232351.jpg,n,232351
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+609,Bruno André,Cavaco Jordao,3,20,39,,,,Jordao,428610.jpg,a,428610
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+619,Daniel,Castelo Podence,3,20,39,,,,Podence,200600.jpg,a,200600
+id,first_name,second_name,element_type,team,team_code,news,news_added,squad_number,web_name,photo,status,code
+652,Leonardo,Campana,4,20,39,,,,Campana,474003.jpg,a,474003
